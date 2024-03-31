@@ -5,13 +5,6 @@ This is an Authentication API using JWT's that you can plug inside your current 
 The API based on Node.js, Express, MongoDB & Redis, following the **MVC pattern** i.e. Model ~~View~~ Controller.
 
 **Mongoose** is used for storing Users in Database.
-**Redis** is used for storing Refresh Tokens - to validate them as well at the same time Blacklisting them.
-
-The application is **production ready**.
-
----
-
-## To start setting up the project
 
 Step 1: Clone the repo
 
